@@ -1,0 +1,9 @@
+Package: oilfield
+Type: Package
+Title: Contains datasets for Prosper, GAP and well tests
+Version: 0.1.0
+Author: Alfonso R. Reyes
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: MIT
+LazyData: TRUE
